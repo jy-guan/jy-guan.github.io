@@ -7,9 +7,9 @@ gems:             [jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Jason Guan
+tagline:          'Design and Data Guy'
+description:      "World\'s OK-ist Designer. World's even OK-er Data Guy."
 url:              http://jy-guan.github.io
 baseurl:          ''
 
@@ -20,4 +20,5 @@ paginate:         5
 paginate_path:       "page:num"
 
 # Custom vars
-version:          2.1.0
+version:          0.0.1
+github_username:  jy-guan
